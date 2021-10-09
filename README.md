@@ -51,7 +51,7 @@ The data were split into a training set and a testing set based on the BI-RADS (
 
 2 metrics: Accuracy & AUC (area under ROC curve)
 
-![Flow chart of modeling process](https://github.com/ThyLy02/Brain-Tumor-Detection/blob/main/figures/Flow chart of modeling process)
+![Flow chart of modeling process](figures/Flow chart of modeling process.png)
 
 ### Architecture
 The texture analysis has been done on the region of interest (ROI) selected from the original mammogram
