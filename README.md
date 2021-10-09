@@ -1,9 +1,4 @@
----
-attachments: [Clipboard_2021-10-09-11-05-55.png, Clipboard_2021-10-09-11-51-50.png, Clipboard_2021-10-09-12-53-39.png]
-title: CBIS-DDSM (Curated Breast Imaging Subset of Digital Database for Screening Mammography)
-created: '2021-10-09T03:13:55.958Z'
-modified: '2021-10-09T05:53:56.689Z'
----
+
 ## DATA DESCRIPTION 
 ### 1. Samples
 .jpg 10.239 mammographic images
@@ -30,7 +25,7 @@ It contains: normal, benign, and malignant cases with verified pathology informa
 
 Pathology: Benign, Benign without call-back, or Malignant
 
-![Flow chart of CBIS-DDSM preparation.]()
+![Flow chart of CBIS-DDSM preparation.](https://github.com/ThyLy02/Brain-Tumor-Detection/blob/main/figures/Flow chart of CBIS-DDSM preparation)
 
 ## LITERATURE REVIEW
 ### Methods
@@ -50,13 +45,13 @@ The data were split into a training set and a testing set based on the BI-RADS (
 
 80% of the cases for training
 
-![Abnormalities in the Training and Test Sets]()
+![Abnormalities in the Training and Test Sets](https://github.com/ThyLy02/Brain-Tumor-Detection/blob/main/figures/Abnormalities in the Training and Test Sets)
 
 ### Performance evaluation
 
 2 metrics: Accuracy & AUC (area under ROC curve)
 
-![Flow chart of modeling process]()
+![Flow chart of modeling process](https://github.com/ThyLy02/Brain-Tumor-Detection/blob/main/figures/Flow chart of modeling process)
 
 ### Architecture
 The texture analysis has been done on the region of interest (ROI) selected from the original mammogram
