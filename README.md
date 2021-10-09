@@ -24,7 +24,7 @@ The DDSM is a database of 2,620 scanned film mammography studies
 It contains: normal, benign, and malignant cases with verified pathology information.
 
 Pathology: Benign, Benign without call-back, or Malignant
-![Flow chart of CBIS-DDSM preparation](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/images/Flow chart CBIS-DDSM preparation)
+![Flow chart of CBIS-DDSM preparation](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/figures/Flow chart CBIS-DDSM preparation.png)
 
 
 ## LITERATURE REVIEW
