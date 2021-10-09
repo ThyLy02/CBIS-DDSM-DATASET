@@ -30,7 +30,7 @@ It contains: normal, benign, and malignant cases with verified pathology informa
 
 Pathology: Benign, Benign without call-back, or Malignant
 
-![Flow chart of CBIS-DDSM preparation.](@attachment/Clipboard_2021-10-09-11-05-55.png)
+![Flow chart of CBIS-DDSM preparation.]()
 
 ## LITERATURE REVIEW
 ### Methods
@@ -50,13 +50,13 @@ The data were split into a training set and a testing set based on the BI-RADS (
 
 80% of the cases for training
 
-![Abnormalities in the Training and Test Sets](@attachment/Clipboard_2021-10-09-11-51-50.png)
+![Abnormalities in the Training and Test Sets]()
 
 ### Performance evaluation
 
 2 metrics: Accuracy & AUC (area under ROC curve)
 
-![Flơ chart of modeling process](@attachment/Clipboard_2021-10-09-12-53-39.png)
+![Flow chart of modeling process]()
 
 ### Architecture
 The texture analysis has been done on the region of interest (ROI) selected from the original mammogram
