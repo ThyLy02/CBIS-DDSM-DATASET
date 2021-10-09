@@ -64,9 +64,13 @@ Model: DNN/new VGG16
 
 ## Sources:
 https://doi.org/10.1038/sdata.2017.177
+
 https://www.mdpi.com/2313-433X/5/3/37/pdf
+
 https://arxiv.org/pdf/2008.12904.pdf
+
 https://www.astesj.com/publications/ASTESJ_050220.pdf
+
 Kamra A, Jain VK, Singh S, Mittal S. Characterization of Architectural Distortion in Mammograms Based on Texture Analysis Using Support Vector Machine Classifier with Clinical Evaluation. J Digit Imaging. 2016 Feb;29(1):104-14. doi: 10.1007/s10278-015-9807-3. PMID: 26138756; PMCID: PMC4722021.
 
 
