@@ -24,7 +24,7 @@ The DDSM is a database of 2,620 scanned film mammography studies
 It contains: normal, benign, and malignant cases with verified pathology information.
 
 Pathology: Benign, Benign without call-back, or Malignant
-![Flow chart of CBIS-DDSM preparation](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/figures/Flow chart CBIS-DDSM preparation.png)
+![Flow chart of CBIS-DDSM preparation](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/images/image2.png)
 
 
 ## LITERATURE REVIEW
@@ -45,13 +45,13 @@ The data were split into a training set and a testing set based on the BI-RADS (
 
 80% of the cases for training
 
-![Abnormalities in the Training and Test Sets](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/figures/Abnormalities in the Training and Test Sets.png)
+![Abnormalities in the Training and Test Sets](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/images/image1.png)
 
 ### Performance evaluation
 
 2 metrics: Accuracy & AUC (area under ROC curve)
 
-![Flow chart of modeling process](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/figures/Flow chart of modeling process.png)
+![Flow chart of modeling process](https://github.com/ThyLy02/CBIS-DDSM-DATASET/blob/main/fimages/image3.png)
 
 ### Architecture
 The texture analysis has been done on the region of interest (ROI) selected from the original mammogram
