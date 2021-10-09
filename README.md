@@ -71,6 +71,8 @@ https://arxiv.org/pdf/2008.12904.pdf
 
 https://www.astesj.com/publications/ASTESJ_050220.pdf
 
+https://books.google.com.vn/books?id=U0efDwAAQBAJ&lpg=PA202&ots=ChlOQtqhLh&dq=architecture%20of%20CBIS-DDSM&pg=PA201#v=onepage&q=architecture%20of%20CBIS-DDSM&f=false
+
 Kamra A, Jain VK, Singh S, Mittal S. Characterization of Architectural Distortion in Mammograms Based on Texture Analysis Using Support Vector Machine Classifier with Clinical Evaluation. J Digit Imaging. 2016 Feb;29(1):104-14. doi: 10.1007/s10278-015-9807-3. PMID: 26138756; PMCID: PMC4722021.
 
 
